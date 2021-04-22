@@ -1,0 +1,21 @@
+/**
+ * @Author: Janeth Cano
+ * @Date:   22_Apr_2021
+ * @Last modified by:   Janeth Cano
+ * @Last modified time: 22_Apr_2021
+ * @Description: variables globales
+ */
+
+:root{
+  --fuenteHeading: 'PT Sans', sans-serif;
+  --fuenteParrafos: 'Open Sans', sans-serif;
+
+  --primario: #784D3C;
+  --blanco: #ffffff;
+  --negro: #000000;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
