@@ -84,5 +84,16 @@ img{
 /*=====HEADER=====*/
 
 .header{
+  background-attachment: url(../img/banner.jpg);
+  height: 60rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;    /*doble center porque se centra vertical y horizontalmente*/
 
+}
+
+.header_texto{
+  text-align: center;
+  color: var(--blanco);
+  margin-top: 5rem;
 }
